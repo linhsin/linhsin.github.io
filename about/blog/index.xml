@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Ariel&#39;s</title>
-    <link>https://linhsin.github.io/</link>
-    <description>Recent content on Ariel&#39;s</description>
+    <title>blog on Ariel&#39;s</title>
+    <link>https://linhsin.github.io/blog/</link>
+    <description>Recent content in blog on Ariel&#39;s</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Sun, 17 Jan 2021 10:07:47 +0800</lastBuildDate><atom:link href="https://linhsin.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 29 Oct 2019 13:49:23 +0600</lastBuildDate><atom:link href="https://linhsin.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How To Use Checklists To Improve Your UX</title>
       <link>https://linhsin.github.io/blog/test/</link>
