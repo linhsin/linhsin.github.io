@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Ariel&#39;s</title>
+    <link>https://linhsin.githug.io/categories/</link>
+    <description>Recent content in Categories on Ariel&#39;s</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Sun, 17 Jan 2021 10:07:47 +0800</lastBuildDate><atom:link href="https://linhsin.githug.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Go Language</title>
+      <link>https://linhsin.githug.io/categories/go-language/</link>
+      <pubDate>Sun, 17 Jan 2021 10:07:47 +0800</pubDate>
+      
+      <guid>https://linhsin.githug.io/categories/go-language/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
